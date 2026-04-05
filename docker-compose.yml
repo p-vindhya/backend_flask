@@ -1,0 +1,34 @@
+services:
+  postgres:
+    image: postgres:15
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: customer_db
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  flask:
+    build: ./flask-service
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./data:/app/data
+    depends_on:
+      - postgres
+
+  fastapi:
+    build: ./fastapi-service
+    ports:
+      - "8000:8000"
+    environment:
+      DATABASE_URL: postgresql://postgres:password@postgres:5432/customer_db
+      FLASK_URL: http://flask:5000
+    depends_on:
+      - postgres
+      - flask
+
+volumes:
+  postgres_data:

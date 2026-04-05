@@ -1,0 +1,222 @@
+[
+  {
+    "customer_id": "CUST001",
+    "first_name": "John",
+    "last_name": "Doe",
+    "email": "john.doe@example.com",
+    "phone": "+1-555-123-4567",
+    "address": "123 Main St, Anytown, USA",
+    "date_of_birth": "1985-05-15",
+    "account_balance": 1500.50,
+    "created_at": "2023-01-01T10:00:00Z"
+  },
+  {
+    "customer_id": "CUST002",
+    "first_name": "Jane",
+    "last_name": "Smith",
+    "email": "jane.smith@example.com",
+    "phone": "+1-555-234-5678",
+    "address": "456 Elm St, Somewhere, USA",
+    "date_of_birth": "1990-08-22",
+    "account_balance": 2500.75,
+    "created_at": "2023-01-02T11:00:00Z"
+  },
+  {
+    "customer_id": "CUST003",
+    "first_name": "Alice",
+    "last_name": "Johnson",
+    "email": "alice.johnson@example.com",
+    "phone": "+1-555-345-6789",
+    "address": "789 Oak Ave, Elsewhere, USA",
+    "date_of_birth": "1978-12-10",
+    "account_balance": 3200.00,
+    "created_at": "2023-01-03T12:00:00Z"
+  },
+  {
+    "customer_id": "CUST004",
+    "first_name": "Bob",
+    "last_name": "Williams",
+    "email": "bob.williams@example.com",
+    "phone": "+1-555-456-7890",
+    "address": "321 Pine Rd, Nowhere, USA",
+    "date_of_birth": "1982-03-05",
+    "account_balance": 1800.25,
+    "created_at": "2023-01-04T13:00:00Z"
+  },
+  {
+    "customer_id": "CUST005",
+    "first_name": "Charlie",
+    "last_name": "Brown",
+    "email": "charlie.brown@example.com",
+    "phone": "+1-555-567-8901",
+    "address": "654 Maple Ln, Anywhere, USA",
+    "date_of_birth": "1995-07-20",
+    "account_balance": 950.00,
+    "created_at": "2023-01-05T14:00:00Z"
+  },
+  {
+    "customer_id": "CUST006",
+    "first_name": "Diana",
+    "last_name": "Davis",
+    "email": "diana.davis@example.com",
+    "phone": "+1-555-678-9012",
+    "address": "987 Cedar St, Everywhere, USA",
+    "date_of_birth": "1988-11-30",
+    "account_balance": 4100.50,
+    "created_at": "2023-01-06T15:00:00Z"
+  },
+  {
+    "customer_id": "CUST007",
+    "first_name": "Eve",
+    "last_name": "Miller",
+    "email": "eve.miller@example.com",
+    "phone": "+1-555-789-0123",
+    "address": "147 Birch Blvd, Sometown, USA",
+    "date_of_birth": "1975-09-14",
+    "account_balance": 2750.00,
+    "created_at": "2023-01-07T16:00:00Z"
+  },
+  {
+    "customer_id": "CUST008",
+    "first_name": "Frank",
+    "last_name": "Wilson",
+    "email": "frank.wilson@example.com",
+    "phone": "+1-555-890-1234",
+    "address": "258 Spruce Way, Othertown, USA",
+    "date_of_birth": "1992-04-18",
+    "account_balance": 1200.75,
+    "created_at": "2023-01-08T17:00:00Z"
+  },
+  {
+    "customer_id": "CUST009",
+    "first_name": "Grace",
+    "last_name": "Moore",
+    "email": "grace.moore@example.com",
+    "phone": "+1-555-901-2345",
+    "address": "369 Fir Ct, Thistown, USA",
+    "date_of_birth": "1980-06-25",
+    "account_balance": 3600.25,
+    "created_at": "2023-01-09T18:00:00Z"
+  },
+  {
+    "customer_id": "CUST010",
+    "first_name": "Henry",
+    "last_name": "Taylor",
+    "email": "henry.taylor@example.com",
+    "phone": "+1-555-012-3456",
+    "address": "741 Willow Dr, Thatplace, USA",
+    "date_of_birth": "1987-01-08",
+    "account_balance": 2200.00,
+    "created_at": "2023-01-10T19:00:00Z"
+  },
+  {
+    "customer_id": "CUST011",
+    "first_name": "Ivy",
+    "last_name": "Anderson",
+    "email": "ivy.anderson@example.com",
+    "phone": "+1-555-123-4568",
+    "address": "852 Ash Ln, Hereville, USA",
+    "date_of_birth": "1993-10-12",
+    "account_balance": 850.50,
+    "created_at": "2023-01-11T20:00:00Z"
+  },
+  {
+    "customer_id": "CUST012",
+    "first_name": "Jack",
+    "last_name": "Thomas",
+    "email": "jack.thomas@example.com",
+    "phone": "+1-555-234-5679",
+    "address": "963 Poplar St, Thereburg, USA",
+    "date_of_birth": "1979-02-28",
+    "account_balance": 4900.00,
+    "created_at": "2023-01-12T21:00:00Z"
+  },
+  {
+    "customer_id": "CUST013",
+    "first_name": "Kate",
+    "last_name": "Jackson",
+    "email": "kate.jackson@example.com",
+    "phone": "+1-555-345-6790",
+    "address": "159 Hickory Ave, Yonder, USA",
+    "date_of_birth": "1984-05-03",
+    "account_balance": 1750.25,
+    "created_at": "2023-01-13T22:00:00Z"
+  },
+  {
+    "customer_id": "CUST014",
+    "first_name": "Liam",
+    "last_name": "White",
+    "email": "liam.white@example.com",
+    "phone": "+1-555-456-7891",
+    "address": "357 Sycamore Rd, Faraway, USA",
+    "date_of_birth": "1991-08-17",
+    "account_balance": 3100.75,
+    "created_at": "2023-01-14T23:00:00Z"
+  },
+  {
+    "customer_id": "CUST015",
+    "first_name": "Mia",
+    "last_name": "Harris",
+    "email": "mia.harris@example.com",
+    "phone": "+1-555-567-8902",
+    "address": "468 Juniper Ln, Nearby, USA",
+    "date_of_birth": "1977-11-21",
+    "account_balance": 2600.00,
+    "created_at": "2023-01-15T00:00:00Z"
+  },
+  {
+    "customer_id": "CUST016",
+    "first_name": "Noah",
+    "last_name": "Martin",
+    "email": "noah.martin@example.com",
+    "phone": "+1-555-678-9013",
+    "address": "579 Redwood Blvd, Closeby, USA",
+    "date_of_birth": "1989-03-09",
+    "account_balance": 1400.50,
+    "created_at": "2023-01-16T01:00:00Z"
+  },
+  {
+    "customer_id": "CUST017",
+    "first_name": "Olivia",
+    "last_name": "Thompson",
+    "email": "olivia.thompson@example.com",
+    "phone": "+1-555-789-0124",
+    "address": "680 Sequoia Way, Uptown, USA",
+    "date_of_birth": "1994-06-14",
+    "account_balance": 980.25,
+    "created_at": "2023-01-17T02:00:00Z"
+  },
+  {
+    "customer_id": "CUST018",
+    "first_name": "Parker",
+    "last_name": "Garcia",
+    "email": "parker.garcia@example.com",
+    "phone": "+1-555-890-1235",
+    "address": "791 Chestnut Ct, Downtown, USA",
+    "date_of_birth": "1981-09-27",
+    "account_balance": 4200.00,
+    "created_at": "2023-01-18T03:00:00Z"
+  },
+  {
+    "customer_id": "CUST019",
+    "first_name": "Quinn",
+    "last_name": "Martinez",
+    "email": "quinn.martinez@example.com",
+    "phone": "+1-555-901-2346",
+    "address": "802 Walnut Dr, Midtown, USA",
+    "date_of_birth": "1986-12-05",
+    "account_balance": 1950.75,
+    "created_at": "2023-01-19T04:00:00Z"
+  },
+  {
+    "customer_id": "CUST020",
+    "first_name": "Ryan",
+    "last_name": "Robinson",
+    "email": "ryan.robinson@example.com",
+    "phone": "+1-555-012-3457",
+    "address": "913 Pecan Ln, Outskirts, USA",
+    "date_of_birth": "1990-04-22",
+    "account_balance": 3300.50,
+    "created_at": "2023-01-20T05:00:00Z"
+  }
+]
